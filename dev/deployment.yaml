@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mobaid15/hiring-app
+        image: mobaid15/hiring-app:17
         ports:
         - containerPort: 8080
